@@ -1,5 +1,5 @@
 a = 2 
-print("coucou", a)
+print("coucou", a),
 
 def Moyenne(): 
     tab = [10, 10, 10]
